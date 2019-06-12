@@ -252,67 +252,67 @@ elif pilih == 3:
 	exit()
 elif pilih == 4:
 	DOS.Dos()
-	import src.DumpS
+	import DumpS
 	exit()
 elif pilih == 5:
 	rmtoken()
 elif pilih == 6:
 	DOS.Dos()
-	import src.Facc
+	import Facc
 	exit()
 elif pilih == 7:
 	DOS.Dos()
-	import src.Fadd
+	import Fadd
 	exit()
 elif pilih == 8:
 	DOS.Dos()
-	import src.Kreact
+	import Kreact
 	exit()
 elif pilih == 9:
 	DOS.Dos()
-	import src.komen
+	import komen
 	exit()
 elif pilih == 10:
 	DOS.Dos()
-	import src.Gkomen
+	import Gkomen
 	exit()
 elif pilih == 11:
 	DOS.Dos()
-	import src.Tkomen
+	import Tkomen
 	exit()
 elif pilih == 12:
 	DOS.Dos()
-	import src.Unf
+	import Unf
 	exit()
 elif pilih == 13:
 	input("[info] before use this module you must have a lot accounts [press enter to continue]")
 	DOS.Dos()
-	import src.Mreact
+	import Mreact
 	exit()
 elif pilih == 14:
 	input("[Info] before use this module you must have a lot accounts [press enter]")
 	DOS.Dos()
-	import src.Asubs
+	import Asubs
 	exit()
 elif pilih == 15:
 	DOS.Dos()
-	import src.Cspam
+	import Cspam
 	exit()
 elif pilih == 16:
 	DOS.Dos()
-	import src.Apost
+	import Apost
 	exit()
 elif pilih == 17:
 	DOS.Dos()
-	import src.Mreport
+	import Mreport
 	exit()
 elif pilih == 18:
 	DOS.Dos()
-	import src.Edump
+	import Edump
 	exit()
 elif pilih == 19:
 	DOS.Dos()
-	import src.Capp
+	import Capp
 	exit()
 elif pilih == 20:
 	DOS.Dos()
@@ -320,7 +320,7 @@ elif pilih == 20:
 	exit()
 elif pilih == 21:
 	DOS.Dos()
-	import src.Cekun
+	import Cekun
 	exit()
 elif pilih == 0:
 	print("\n[!] Checking update")
